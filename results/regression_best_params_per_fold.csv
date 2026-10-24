@@ -1,0 +1,8 @@
+model,Outer fold 1,Outer fold 2,Outer fold 3,Outer fold 4,Outer fold 5
+Random forest,"max_features=sqrt, min_samples_leaf=1","max_features=sqrt, min_samples_leaf=1","max_features=sqrt, min_samples_leaf=1","max_features=sqrt, min_samples_leaf=1","max_features=sqrt, min_samples_leaf=1"
+Gradient boosting,"learning_rate=0.05, max_leaf_nodes=31","learning_rate=0.05, max_leaf_nodes=31","learning_rate=0.05, max_leaf_nodes=31","learning_rate=0.05, max_leaf_nodes=31","learning_rate=0.05, max_leaf_nodes=31"
+SVR,"C=1, gamma=scale","C=1, gamma=scale","C=1, gamma=scale","C=1, gamma=scale","C=1, gamma=scale"
+KNN,"n_neighbors=25, weights=distance","n_neighbors=25, weights=distance","n_neighbors=25, weights=distance","n_neighbors=25, weights=distance","n_neighbors=25, weights=distance"
+Lasso,alpha=0.0005,alpha=0.0005,alpha=0.0005,alpha=0.0005,alpha=0.0005
+Ridge,alpha=100,alpha=100,alpha=1,alpha=10,alpha=100
+Decision tree,"max_depth=5, min_samples_leaf=50","max_depth=5, min_samples_leaf=50","max_depth=5, min_samples_leaf=50","max_depth=8, min_samples_leaf=50","max_depth=5, min_samples_leaf=20"

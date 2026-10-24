@@ -1,0 +1,13 @@
+,Pearson,Spearman
+density,-0.3264,-0.349
+volatile acidity,-0.2652,-0.2514
+chlorides,-0.2021,-0.3039
+is_red,-0.1148,-0.1201
+fixed acidity,-0.0801,-0.104
+residual sugar,-0.0568,-0.0282
+total sulfur dioxide,-0.0503,-0.0582
+pH,0.0397,0.0528
+sulphates,0.0419,0.0358
+free sulfur dioxide,0.054,0.09
+citric acid,0.098,0.1165
+alcohol,0.4694,0.4798

@@ -1,0 +1,13 @@
+,impurity,permutation,permutation std
+fixed acidity,0.0626,0.0068,0.0018
+volatile acidity,0.102,0.0478,0.0046
+citric acid,0.0703,0.017,0.0022
+residual sugar,0.071,0.0143,0.0012
+chlorides,0.082,0.0174,0.0036
+free sulfur dioxide,0.0897,0.0431,0.0027
+total sulfur dioxide,0.08,0.0211,0.0015
+density,0.1099,0.025,0.0032
+pH,0.0691,0.012,0.0016
+sulphates,0.0767,0.0254,0.0021
+alcohol,0.182,0.1209,0.0072
+is_red,0.0047,0.0035,0.0023

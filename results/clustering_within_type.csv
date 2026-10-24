@@ -1,0 +1,5 @@
+wine type,method,k,silhouette,ARI quality,NMI quality
+red,K-Means,2,0.205,0.048,0.037
+red,Ward,2,0.206,0.039,0.018
+white,K-Means,2,0.213,0.032,0.06
+white,Ward,2,0.182,0.02,0.049

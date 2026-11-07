@@ -1,4 +1,4 @@
-Majority baseline,Logistic regression,KNN,Decision tree,Random forest,Gradient boosting,SVM (RBF),y_true
+Majority baseline,Logistic regression,KNN,Decision tree,Random forest,Gradient boosting,SVM,y_true
 1,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0
